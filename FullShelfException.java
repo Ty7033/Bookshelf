@@ -3,7 +3,7 @@ package com.company;
 /**
  * This exception class is thrown to check if the bookshelf object is full (has reached 20 book objects)
  *
- *  @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ *  @author  Tracy Yip 
  */
 public class FullShelfException extends Exception
 {
