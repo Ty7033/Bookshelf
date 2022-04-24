@@ -2,6 +2,7 @@ package com.company;
 
 /**
  * This class represents a book that has a title, author, borrower, and condition.
+ *
  *  @author  Tracy Yip
  */
 
